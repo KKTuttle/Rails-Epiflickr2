@@ -44,14 +44,13 @@ Start the Rails webserver:
 ```
 $ rails server
 ```
+Navigate to `localhost:3000` in your browser of choice.
 
 ## Support and contact details
 
 _Contact by email: katka.karolcikova@gmail.com_
 * Github: kktuttle
 * https://github.com/KKTuttle/Rails-Epiflickr2
-* 
-Navigate to `localhost:3000` in your browser of choice.
 
 License
 -------
